@@ -61,6 +61,110 @@
        {
            "name": "troot",
            "type": ".png"
+       },
+       {
+           "name": "amongustroll",
+           "type": ".png"
+       },
+       {
+           "name": "blanktroll",
+           "type": ".png"
+       },
+       {
+           "name": "britishhattroll",
+           "type": ".png"
+       },
+       {
+           "name": "britishteethtroll",
+           "type": ".png"
+       },
+       {
+           "name": "britishtroll",
+           "type": ".png"
+       },
+       {
+           "name": "coronatroll",
+           "type": ".png"
+       },
+       {
+           "name": "cringetroll",
+           "type": ".png"
+       },
+       {
+           "name": "deathtroll",
+           "type": ".png"
+       },
+       {
+           "name": "dogetroll",
+           "type": ".png"
+       },
+       {
+           "name": "heavytroll",
+           "type": ".png"
+       },
+       {
+           "name": "huhfail",
+           "type": ".png"
+       },
+       {
+           "name": "invisitroll",
+           "type": ".png"
+       },
+       {
+           "name": "rippedtroll",
+           "type": ".png"
+       },
+       {
+           "name": "trollage",
+           "type": ".png"
+       },
+       {
+           "name": "trollbiden",
+           "type": ".png"
+       },
+       {
+           "name": "trollblox",
+           "type": ".png"
+       },
+       {
+           "name": "trollchad",
+           "type": ".png"
+       },
+       {
+           "name": "trollcry",
+           "type": ".png"
+       },
+       {
+           "name": "trolldance",
+           "type": ".gif"
+       },
+       {
+           "name": "trollemoti",
+           "type": ".png"
+       },
+       {
+           "name": "trollevil",
+           "type": ".png"
+       },
+       {
+           "name": "trolley",
+           "type": ".png"
+       },
+       {
+           "name": "trollpingu",
+           "type": ".png"
+       },
+       {
+           "name": "trollzombie",
+           "type": ".png"
+       },
+       {
+           "name": "umadbro",
+           "type": ".png"
+       },
+       {
+           "name": "waltertroll",
+           "type": ".png"
        }
    ]
 }
