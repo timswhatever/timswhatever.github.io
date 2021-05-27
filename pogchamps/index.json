@@ -1,0 +1,65 @@
+{
+   "name": "Skrrt's Pogchamp Pack",
+   "path": "poggers",
+   "emotes" : [
+       {
+           "name": "OkayChamp",
+           "type": ".png"
+       },
+       {
+           "name": "PagChomp",
+           "type": ".png"
+       },
+       {
+           "name": "PauseChamp",
+           "type": ".png"
+       },
+       {
+           "name": "Pog",
+           "type": ".png"
+       },
+       {
+           "name": "PogChamp",
+           "type": ".png"
+       },
+       {
+           "name": "PogMan",
+           "type": ".png"
+       },
+       {
+           "name": "PogO",
+           "type": ".png"
+       },
+       {
+           "name": "Pogey",
+           "type": ".png"
+       },
+       {
+           "name": "pogu",
+           "type": ".png"
+       },
+       {
+           "name": "weirdchamp",
+           "type": ".png"
+       },
+       {
+           "name": "PogMan",
+           "type": ".png"
+       {
+           "name": "OkayChamping",
+           "type": ".gif"
+       },
+       {
+           "name": "PPogo",
+           "type": ".gif"
+       },
+       {
+           "name": "PogTasty",
+           "type": ".gif"
+       },
+       {
+           "name": "WeirdChamping",
+           "type": ".gif"
+     }
+   ]
+}
