@@ -3,19 +3,63 @@
    "path": "trolled",
    "emotes" : [
        {
-           "name": "1",
+           "name": "TrollFace",
            "type": ".png"
        },
        {
-           "name": "2",
+           "name": "candice",
+           "type": ".jpg"
+       },
+       {
+           "name": "crazytroll.png",
            "type": ".png"
        },
        {
-           "name": "3",
+           "name": "epictroll",
+           "type": ".gif"
+       },
+       {
+           "name": "frontfacing",
            "type": ".png"
        },
        {
-           "name": "4",
+           "name": "haha",
+           "type": ".gif"
+       },
+       {
+           "name": "lecopshavefoundme",
+           "type": ".png"
+       },
+       {
+           "name": "mad",
+           "type": ".jpg"
+       },
+       {
+           "name": "mfw",
+           "type": ".png"
+       },
+       {
+           "name": "oil",
+           "type": ".png"
+       },
+       {
+           "name": "sadtroll",
+           "type": ".gif"
+       },
+       {
+           "name": "smoothtroll",
+           "type": ".png"
+       },
+       {
+           "name": "trollpc",
+           "type": ".png"
+       },
+       {
+           "name": "trollsus",
+           "type": ".png"
+       },
+       {
+           "name": "troot",
            "type": ".png"
        }
    ]
