@@ -1,0 +1,10 @@
+{
+   "name": "two repo testing",
+   "path": "twoemoji",
+   "emotes" : [
+       {
+           "name": "trollpc2",
+           "type": ".png"
+       }
+   ]
+}
