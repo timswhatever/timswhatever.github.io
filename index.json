@@ -64,3 +64,13 @@
        }
    ]
 }
+{
+   "name": "dual repo testing",
+   "path": "two",
+   "emotes" : [
+       {
+           "name": "trollpc",
+           "type": ".png"
+       }
+   ]
+}
