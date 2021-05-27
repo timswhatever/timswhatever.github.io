@@ -1,4 +1,4 @@
-# tim9034.github.io
+# tim9034.github.io PogChamp Pack
 I use this site to host my own repos, but I also keep a list of all the Nitroless repos here.
 
 List of known Nitroless Repos
