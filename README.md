@@ -1,5 +1,6 @@
 # tim9034.github.io
-nitroless repos ig
+List of known Nitroless Repos
 
-Alot of troll emojis are here
-https://tim9034.github.io
+1. https://nitroless.github.io/ExampleNitrolessRepo/
+2. https://thealphastream.github.io/emojis/
+3. https://tim9034.github.io
