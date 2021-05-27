@@ -4,6 +4,6 @@ If you want to add my repo (Troll pack) add my url: https://tim9034.github.io
 
 List of known Nitroless Repos
 
-1. https://nitroless.github.io/ExampleNitrolessRepo/
-2. https://thealphastream.github.io/emojis/
-3. https://tim9034.github.io
+1. Nitroless Example Repo: https://nitroless.github.io/ExampleNitrolessRepo/
+2. Alpha's Repo: https://thealphastream.github.io/emojis/
+3. Skrrt's Troll Pack: https://tim9034.github.io
