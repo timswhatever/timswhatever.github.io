@@ -1,0 +1,22 @@
+{
+   "name": "Skrrt's Troll Pack",
+   "path": "trolled",
+   "emotes" : [
+       {
+           "name": "1",
+           "type": ".png"
+       },
+       {
+           "name": "2",
+           "type": ".png"
+       },
+       {
+           "name": "3",
+           "type": ".png"
+       },
+       {
+           "name": "4",
+           "type": ".png"
+       }
+   ]
+}
